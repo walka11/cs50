@@ -1,3 +1,5 @@
+/*This file builds a mario style pyramid based on the input height from a user*/
+
 #include <cs50.h>
 #include <stdio.h>
 
